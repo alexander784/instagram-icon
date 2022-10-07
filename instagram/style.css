@@ -1,0 +1,44 @@
+.box-1{
+    width: 350px;
+    height: 350px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 90px;
+    background: linear-gradient( to bottom left,red,orange,darkviolet);
+}
+
+.box-2{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border: 20px solid white;
+    border-radius: 100px;
+    background: linear-gradient( to bottom left,red,orange,darkviolet);
+}
+
+.box-3{
+    width: 24px;
+    height: 24px;
+    background-color: white;
+    border-radius: 100px;
+    margin-left: 90px;
+    margin-top: 15px;
+   
+
+
+}
+
+.box-4{
+    padding: 52px;
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    border-radius: 100px;
+    border: 20px solid white;
+    margin-left: 30px;
+    padding-left: 30px;
+    background: linear-gradient( to bottom left,red,orange,darkviolet);
+
+}
